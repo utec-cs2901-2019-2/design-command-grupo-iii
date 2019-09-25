@@ -1,4 +1,3 @@
 package command;
 
-public class RemoteControl {
-}
+public class RemoteControl {}

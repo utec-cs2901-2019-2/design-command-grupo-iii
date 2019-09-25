@@ -5,11 +5,11 @@ public class Stereo {
 
 	public void on() {
 		isOn = true;
-		System.out.println("Light is " + isOn);
+		System.out.println("Stereo is " + isOn);
 	}
 
 	public void off() {
 		isOn = false;
-		System.out.println("Light is " + isOn);
+		System.out.println("Stereo is " + isOn);
 	}
 }
