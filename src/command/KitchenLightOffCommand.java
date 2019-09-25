@@ -1,6 +1,6 @@
 package command;
 
-public class KitchenLightOffCommand {
+public class KitchenLightOffCommand implements Command {
     KitchenLight light;
 
     public KitchenLightOffCommand(KitchenLight light) {
